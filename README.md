@@ -1,4 +1,4 @@
-Download link : 
+Download link : https://programming.engineering/product/exercise-week-2-lsqfit-in-python/
 
 Exercise – Week 2: LSQFit in Python
 Be prepared for the exercise sessions (watch the demo lecture). You may ask TAs to help if you cannot make your program to work, but don’t expect them to show you how to start from the scratch.
